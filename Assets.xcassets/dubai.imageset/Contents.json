@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "dubai_inst.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "almaty_inst.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
